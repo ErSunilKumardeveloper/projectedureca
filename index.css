@@ -152,7 +152,7 @@ font-size:large;
     width: 90%;
     margin-left: 5%;
     background-color: white;
-    border:2px solid red;
+    /*border:2px solid red;*/
 }
 #heading{
     height: 50px;
@@ -169,7 +169,7 @@ font-size:large;
     font-size: 17px;
     text-align: center;
     color: white;
-    border: 2px solid red;
+   /*border: 2px solid red;*/
 }
 #Medical{
     height: 450px;
@@ -253,7 +253,7 @@ a{
     height: 450px;
     width: 20%;
     float: left;
-    border:2px solid red;
+    /*border:2px solid red;*/
 }
 /*footer Css*/
 footer{
